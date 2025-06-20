@@ -30,9 +30,8 @@ This is a **C language console application** that records and displays details o
 ![Bowler input](./Screenshots/Screenshot%202025-06-20%20174624.png)
 ![Bowler summary](./Screenshots/Screenshot%202025-06-20%20174700.png)
 
-### 🧾 Match Summary & Records
+### 🧾 Match Summary
 ![Match summary](./Screenshots/Screenshot%202025-06-20%20174734.png)
-![Match records](./Screenshots/Screenshot%202025-06-20%20174745.png)
 
 ## 🛠️ How to Compile & Run
 
